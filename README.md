@@ -1,5 +1,5 @@
 https://bike-scroll-animation.vercel.app/
-
+important ⚠️ rotate and scroll in mobile 
 
 # 🏍️ Scroll Animation Bike Website
 
